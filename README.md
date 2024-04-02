@@ -5,6 +5,7 @@ Formado em Ciência da Computação, por aqui, desenvolverei projetos que abrang
 o estudo de novas tecnologias e registrarei meu aprendizado com o passar da jornada
 
 <div>
+<img src="sn.png" height="120">
 <img src="html.png" height="120">
 <img src="css.png" height="120">
 <img src="js.png" height="120">
