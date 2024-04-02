@@ -1,4 +1,5 @@
 # Quem sou?
+Olá, sou o Igor, sou consultor ServiceNow.
 
 Formado em Ciência da Computação, por aqui, desenvolverei projetos que abrangem
 o estudo de novas tecnologias e registrarei meu aprendizado com o passar da jornada
